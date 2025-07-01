@@ -3,7 +3,7 @@ How to Download the Xfinity App on Any Device? 📲📺
 
 Looking to manage your internet, stream content, or control your home network from anywhere? The **Xfinity app** makes it all possible — right from your phone, tablet, or smart TV. 📡
 
-.. image:: start.png
+.. image:: download-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
